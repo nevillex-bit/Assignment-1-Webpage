@@ -1,2 +1,3 @@
 git-sync.sh fineshed execution at 
 git-sync.sh finished execution at 
+git-sync.sh finished execution at 
