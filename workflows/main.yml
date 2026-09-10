@@ -2,4 +2,8 @@ name: Automated Update
 on:
   schedule:
     - cron: '0 0 0 * * *'#every day at midnight
-    
+  pull:
+    branches: [main]
+  push:
+    branches: [main]
+j
