@@ -25,7 +25,7 @@ h2 {
 img
 {
     align-content:center;
-    padding-left:32.5%;
+    padding-left:35%;
 }
 p
 {
@@ -50,8 +50,4 @@ ul
     border: 2px dashed #FFFFFF;
     width: 100%;
     height: auto;
-}
-.spacing
-{
-    height:1vh;
 }
